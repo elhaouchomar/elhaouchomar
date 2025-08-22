@@ -33,7 +33,7 @@
 
 ### 🛠️ DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,caddy,bash" />
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,bash" />
 </p>
 
 ---
