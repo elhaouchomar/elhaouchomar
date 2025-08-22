@@ -76,61 +76,6 @@ To:
 
 </div>
 
-<!-- Projects Section with Cards -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 🏆 **LEGENDARY PROJECTS HALL**
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-### ⚡ **[SOCIAL NETWORK](https://github.com/yourusername/social-network)**
-```
-🔥 Facebook-killer in the making
-🚀 Go + Next.js + SQLite + Docker
-⚡ Real-time chat, groups, notifications
-🎯 Status: Active Development
-```
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=social-network&theme=tokyonight&hide_border=true"/>
-
-### 🦀 **[RUST SHELL](https://github.com/yourusername/rust-shell)**  
-```
-🛡️ Unix-like shell built in pure Rust
-⚡ Lightning fast & memory safe
-🎯 Minimalist design philosophy  
-🏆 Status: Production Ready
-```
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=rust-shell&theme=tokyonight&hide_border=true"/>
-
-</td>
-<td width="50%">
-
-### 🎮 **[BOMBERMAN + JS FRAMEWORK](https://github.com/yourusername/bomberman)**
-```
-🎯 Built entire game engine from scratch
-⚡ Custom JS framework (because why not?)
-🎮 Classic Bomberman with modern twist
-🏆 Status: MVP Complete
-```
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=bomberman&theme=tokyonight&hide_border=true"/>
-
-### 🧪 **[AI BACTERIA IDENTIFIER](https://github.com/yourusername/ai-bacteria)**
-```  
-🧬 Medical science meets AI
-🤖 TensorFlow + Python magic
-💊 Diagnose bacteria from lab tests
-🔬 Status: Research Phase
-```
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ai-bacteria&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <!-- Stats Section with Animations -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
