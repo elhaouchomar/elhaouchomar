@@ -54,20 +54,6 @@ To:
 </tr>
 </table>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-</table>
-
-### 🌱 **SKILL TREE GRINDING**
-
-<img src="https://skillicons.dev/icons?i=rust" height="50"/> **Rust Deep Dive**: Ownership, Lifetimes, Memory Safety Wizardry
-
-<img src="https://skillicons.dev/icons?i=docker" height="50"/> **DevOps Evolution**: Docker Compose, CI/CD, Container Orchestration  
-
-<img src="https://skillicons.dev/icons?i=graphql" height="50"/> **API Mastery**: GraphQL Schema Design, Real-time Subscriptions
-
-</div>
 
 <!-- Tech Stack with Glowing Effects -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
