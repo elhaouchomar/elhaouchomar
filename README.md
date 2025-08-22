@@ -34,6 +34,9 @@
 ### 🛠️ DevOps & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,linux,bash" />
+  <a href="https://caddyserver.com/" title="Caddy">
+    <img src="https://caddyserver.com/resources/images/caddy-logo.svg" height="40"/>
+  </a>
 </p>
 
 ---
@@ -61,5 +64,8 @@
   </a>
   <a href="https://linkedin.com/in/yourusername" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="40"/>
+  </a>
+  <a href="https://yourwebsite.com" title="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white" height="40"/>
   </a>
 </p>
