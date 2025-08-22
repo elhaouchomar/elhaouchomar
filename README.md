@@ -57,10 +57,9 @@
 ## 📬 Contact Me
 <p align="center">
   <a href="mailto:your.email@example.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="40" width="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="40"/>
   </a>
   <a href="https://linkedin.com/in/yourusername" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="40" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="40"/>
   </a>
 </p>
-
