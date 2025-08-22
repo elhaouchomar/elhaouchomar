@@ -201,20 +201,38 @@ Progress: ██████████ 100%
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=elhaouchomar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" height="180"/>
+<!-- Basic GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=elhaouchomar&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=elhaouchomar&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=elhaouchomar&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=FFFFFF" height="180"/>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elhaouchomar&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elhaouchomar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="180"/> -->
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=elhaouchomar&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
 
-<!-- Activity Graph -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=elhaouchomar&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true" width="100%"/> -->
+<!-- Contribution Graph (Alternative) -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=elhaouchomar&theme=tokyonight&hide_border=true" height="180"/>
 
-<!-- Contribution Snake -->
-<img src="https://raw.githubusercontent.com/elhaouchomar/elhaouchomar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=elhaouchomar&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%"/>
+### 🏆 **ACHIEVEMENT UNLOCKED**
+
+<div align="center">
+
+```
+🎯 PROJECT MASTER        ████████████ 100%  (4/4 major projects completed)
+🦀 RUST WARRIOR          ██████████░░  85%  (Advanced ownership & lifetimes)
+⚡ GO SPEED DEMON         ████████████ 100%  (Concurrent programming mastery)  
+🤖 AI APPRENTICE         ██████░░░░░░  60%  (TensorFlow & ML fundamentals)
+🐳 DOCKER CAPTAIN        ████████░░░░  80%  (Container orchestration skills)
+🌐 FULL-STACK ARCHITECT  ████████████ 100%  (Frontend + Backend mastery)
+```
+
+**🔥 CURRENT STREAK:** Building something awesome every single day!
+
+**⚡ POWER LEVEL:** Over 9000! (And still climbing...)
 
 </div>
 
