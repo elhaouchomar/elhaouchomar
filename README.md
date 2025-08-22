@@ -102,7 +102,7 @@ To:
 </div>
 
 <!-- Philosophy Section -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🎯 **THE DEVELOPER PHILOSOPHY**
 
@@ -130,7 +130,7 @@ To:
 **🧠 SYSTEMS THINKING**  
 *"Every bug is a learning opportunity"*
 
-</td>
+</td> -->
 <!-- <td width="25%" align="center"> -->
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212257456-4d8f4283-cf4a-4ddf-8a5a-244a1de15b5c.gif" width="100"> -->
 
