@@ -4,12 +4,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=OMAR%20-%20FULL-STACK%20DEVELOPPER&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%F0%9F%9A%80+Full-Stack+Sorcerer;%F0%9F%A6%80+Rust+Evangelist;%E2%9A%A1+Go+Speed+Demon;%F0%9F%A4%96+AI+Whisperer" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%F0%9F%9A%80+Full-Stack+Sorcerer;%F0%9F%A6%80+Rust+Evangelist;%E2%9A%A1+Go+Speed+Demon;%F0%9F%A4%96+AI+Whisperer" alt="Typing SVG" /> -->
 
 </div>
 
 <!-- Glitch Effect Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 
 ## 🌌 **THE ORIGIN STORY**
 
