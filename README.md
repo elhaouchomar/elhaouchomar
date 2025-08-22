@@ -34,9 +34,9 @@
 ### 🛠️ DevOps & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,linux,bash" />
-  <a href="https://caddyserver.com/" title="Caddy">
-    <img src="https://caddyserver.com/resources/images/caddy-logo.svg" height="40"/>
-  </a>
+<a href="https://caddyserver.com/" title="Caddy">
+  <img src="https://img.shields.io/badge/Caddy-5390d9?style=flat-square&logo=caddy&logoColor=white" height="40"/>
+</a>
 </p>
 
 ---
