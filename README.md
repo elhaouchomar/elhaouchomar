@@ -211,10 +211,10 @@ Progress: ██████████ 100%
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=elhaouchomar&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&hide_border=true" width="100%"/>
 
 <!-- Contribution Snake -->
-<img src="https://raw.githubusercontent.com/elhaouchomar/elhaouchomar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!-- <img src="https://raw.githubusercontent.com/elhaouchomar/elhaouchomar/output/github-contribution-grid-snake-dark.svg" width="100%"/> -->
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=elhaouchomar&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=elhaouchomar&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%"/> -->
 
 </div>
 
@@ -248,8 +248,8 @@ Progress: ██████████ 100%
 *"Every bug is a learning opportunity"*
 
 </td>
-<td width="25%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257456-4d8f4283-cf4a-4ddf-8a5a-244a1de15b5c.gif" width="100">
+<!-- <td width="25%" align="center"> -->
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212257456-4d8f4283-cf4a-4ddf-8a5a-244a1de15b5c.gif" width="100"> -->
 
 **🚀 PUSH BOUNDARIES**
 *"Make impossible things possible"*
@@ -292,9 +292,9 @@ Progress: ██████████ 100%
 
 <img src="https://komarev.com/ghpvc/?username=elhaouchomar&label=Profile%20Views&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
 
-**🌟 "Always ready to collaborate on crazy ideas that might just change the world!" 🌟**
+<!-- **🌟 "Always ready to collaborate on crazy ideas that might just change the world!" 🌟** -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="400">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="400"> -->
 
 </div>
 
