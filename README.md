@@ -54,9 +54,12 @@
 
 ---
 
-## 🌐 Connect with Me
+## 📬 Contact Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="40" width="40"/></a>
-  <a href="https://yourwebsite.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/firefox.svg" height="40" width="40"/></a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
