@@ -14,9 +14,26 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,js,ts,react,nextjs,python,django,docker,graphql,sqlite,postgres,git,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,rust,python,django,graphql,nodejs" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql" />
+</p>
+
+### 🛠️ DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,caddy,bash" />
 </p>
 
 ---
