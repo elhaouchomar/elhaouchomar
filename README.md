@@ -134,7 +134,7 @@ To:
 <!-- <td width="25%" align="center"> -->
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212257456-4d8f4283-cf4a-4ddf-8a5a-244a1de15b5c.gif" width="100"> -->
 
-**🚀 PUSH BOUNDARIES**
+<!-- **🚀 PUSH BOUNDARIES**
 *"Make impossible things possible"*
 
 </td>
@@ -146,7 +146,7 @@ To:
                 and always remember - every master was once a disaster!"
 ```
 
-</div>
+</div> -->
 
 <!-- Contact Section with Glowing Effects -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
