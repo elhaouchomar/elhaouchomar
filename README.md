@@ -62,8 +62,5 @@
   <a href="https://linkedin.com/in/yourusername" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="40" width="40"/>
   </a>
-  <a href="https://yourwebsite.com" title="Portfolio">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/firefox.svg" height="40" width="40"/>
-  </a>
 </p>
 
