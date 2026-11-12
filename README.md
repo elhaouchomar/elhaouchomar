@@ -59,25 +59,6 @@ I went from studying biological systems to building intelligent ones. The tools 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated neon divider" />
 
-## 🧠 INSIDE MY NEURAL NETWORK
-
-<div align="center">
-
-| 👁️ Perception | 💬 Language | 🧬 Discovery |
-| :---: | :---: | :---: |
-| Computer vision | Large language models | Biomedical data analysis |
-| Image processing | Retrieval augmented generation | Bioinformatics |
-| Deep learning | Generative AI | Scientific computing |
-
-<br />
-
-<code>raw data → exploration → hypothesis → model → evaluation → application</code>
-
-</div>
-
-<br />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated neon divider" />
 
 ## 🛠️ THE INTELLIGENCE TOOLKIT
 
@@ -105,32 +86,6 @@ I went from studying biological systems to building intelligent ones. The tools 
 </div>
 
 <br />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated neon divider" />
-
-## 🔬 THE WAY I THINK
-
-<div align="center">
-
-**Question like a scientist. Experiment like a researcher. Build like an engineer.**
-
-A model is one part of the story.<br />
-I care about the data behind it, the assumptions inside it,<br />
-and the person who will use what comes out of it.
-
-<br />
-
-```python
-curiosity = "always on"
-
-while curiosity:
-    question = observe(world)
-    insight = experiment(question, data)
-    build(insight, with_care=True)
-    keep_learning()
-```
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated neon divider" />
 
